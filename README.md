@@ -1,2 +1,0 @@
-# Klinik
- Sistem Informasi Klinik
